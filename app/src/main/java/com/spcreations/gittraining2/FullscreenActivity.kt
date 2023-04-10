@@ -165,8 +165,6 @@ class FullscreenActivity : AppCompatActivity() {
 
         println("2nd commit changes")
 
-        println("3rd commit changes")
-
 
     }
 
