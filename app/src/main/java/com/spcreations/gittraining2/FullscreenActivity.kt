@@ -162,5 +162,11 @@ class FullscreenActivity : AppCompatActivity() {
          * and a change of the status and navigation bar.
          */
         private const val UI_ANIMATION_DELAY = 300
+
+        println("2nd commit changes")
+
+
     }
+
+
 }
