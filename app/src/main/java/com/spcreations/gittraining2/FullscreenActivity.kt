@@ -168,6 +168,8 @@ class FullscreenActivity : AppCompatActivity() {
       println("Test1 branch commit")
 
         println("Only test1 branch commit")
+
+        println("Will be included in the merge")
     }
 
 
