@@ -167,7 +167,7 @@ class FullscreenActivity : AppCompatActivity() {
 
       println("Test1 branch commit")
 
-        println("Only master branch")
+        println("Only test1 branch commit")
     }
 
 
