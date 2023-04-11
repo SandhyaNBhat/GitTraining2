@@ -165,6 +165,8 @@ class FullscreenActivity : AppCompatActivity() {
 
         println("2nd commit changes")
 
+        adfaasgsagasdga
+
 
     }
 
