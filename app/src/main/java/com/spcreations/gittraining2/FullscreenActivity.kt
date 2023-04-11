@@ -163,7 +163,8 @@ class FullscreenActivity : AppCompatActivity() {
          */
         private const val UI_ANIMATION_DELAY = 300
 
-        println("3rd time commit changes")
+
+        println("4th commit changes")
 
       println("Test1 branch commit")
 
