@@ -166,6 +166,8 @@ class FullscreenActivity : AppCompatActivity() {
         println("2nd commit changes")
 
       println("Test1 branch commit")
+
+        println("Only test1 branch commit")
     }
 
 
