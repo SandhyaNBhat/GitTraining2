@@ -171,6 +171,8 @@ class FullscreenActivity : AppCompatActivity() {
         println("Only test1 branch commit")
 
         println("Will be included in the merge")
+
+        println("Friend changes added")
     }
 
 
